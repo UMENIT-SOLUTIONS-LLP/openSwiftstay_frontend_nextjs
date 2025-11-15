@@ -22,7 +22,7 @@
     "chart.js": "^4.4.0",
     "classnames": "^2.3.2",
     "dayjs": "^1.11.10",
-    "eslint": "8.46.0",
+    "eslint": "9.0.0",
     "eslint-config-next": "13.4.12",
     "moment-timezone": "^0.5.43",
     "next": "13.4.12",
